@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning interactive systems development and web development with javascript, java, jsp, css, and Bootstrap 4
 - 💞️ I’m looking to collaborate on any web develpment project
 - 📫 How to reach me:
--     Mail: snzjavier1@gmail.com
+-     Mail: franciscoj.sanchezl@potros.itson.edu.mx
 -     Whatsapp: +52 6682053928
 
 <!---
