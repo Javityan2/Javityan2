@@ -11,6 +11,8 @@ I’m passionate about creating apps and digital solutions that help people and 
 🎸 Besides coding, I love playing guitar and other instruments, singing, playing soccer, and watching anime (especially One Piece).  
 🚀 I’m always open to new challenges and learning opportunities!
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ## Technologies
 
 <div align="left">
