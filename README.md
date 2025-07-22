@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://github.com/DarkBear0121">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Svelte%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=50">
+  <a href="https://github.com/Javityan2">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Software+en+formación;Apasionado+por+crear+soluciones+digitales;Desarrollador+de+Apps+Android+(Kotlin,+Jetpack);En+aprendizaje+de+Web+y+Backend;Java,+Node.js,+SQL,+React+(en+proceso);Siempre+aprendiendo+y+mejorando&center=true&width=500&height=50">
   </a>
 </p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Javityan2&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
