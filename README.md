@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Javityan2">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Software+en+formación;Apasionado+por+crear+soluciones+digitales;Desarrollador+de+Apps+Android+(Kotlin,+Jetpack);En+aprendizaje+de+Web+y+Backend;Java,+Node.js,+SQL,+React+(en+proceso);Siempre+aprendiendo+y+mejorando&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Full+Stack+Developer;Passionate+about+tech+and+problem-solving;Focused+on+Web,+Frontend+and+Backend+Development;Skilled+in+React,+Java,+SQL,+JavaScript+(learning);Collaborative,+proactive,+and+always+learning;Great+team+player+and+strong+communicator&center=true&width=600&height=50">
   </a>
 </p>
 
